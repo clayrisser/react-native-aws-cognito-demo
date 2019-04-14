@@ -1,0 +1,17 @@
+{
+  "name": "ReactNativeAWSCognitoDemo",
+  "displayName": "ReactNativeAWSCognitoDemo",
+  "cognito": {
+    "identityPoolId": "Facebook Login",
+    "region": "us-west-2",
+    "userPoolId": "us-west-2_CMf3GLjxF",
+    "userPoolWebClientId": "5i9in1kcisidkvmlmg4j6d055u",
+    "oauth": {
+      "domain": "codejamninja-test.auth.us-west-2.amazoncognito.com",
+      "redirectSignIn": "http://localhost:3000",
+      "redirectSignOut": "http://localhost:3000",
+      "responseType": "code",
+      "scope": ["email", "public_profile"]
+    }
+  }
+}

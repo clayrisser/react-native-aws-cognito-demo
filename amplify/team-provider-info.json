@@ -1,0 +1,21 @@
+{
+    "demo": {
+        "awscloudformation": {
+            "AuthRoleName": "demo-20190414033703-authRole",
+            "UnauthRoleArn": "arn:aws:iam::972093907905:role/demo-20190414033703-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::972093907905:role/demo-20190414033703-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "demo-20190414033703-deployment",
+            "UnauthRoleName": "demo-20190414033703-unauthRole",
+            "StackName": "demo-20190414033703",
+            "StackId": "arn:aws:cloudformation:us-west-2:972093907905:stack/demo-20190414033703/7ad6f480-5e90-11e9-8681-0695eefd7ce2"
+        },
+        "categories": {
+            "auth": {
+                "cognitobe9f9061": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"347407809315096\",\"client_secret\":\"361ef62071cb4db3aae0eeef6c7e5c54\"}]"
+                }
+            }
+        }
+    }
+}
