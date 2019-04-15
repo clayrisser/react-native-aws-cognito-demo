@@ -7,13 +7,18 @@
     "test": "jest"
   },
   "dependencies": {
+    "amazon-cognito-identity-js": "^3.0.11",
     "autobind-decorator": "^2.4.0",
     "aws-amplify": "^1.1.26",
     "aws-amplify-react-native": "^2.1.10",
+    "prop-types": "^15.7.2",
     "react": "16.8.3",
     "react-native": "0.59.4",
-    "react-native-app-auth": "^4.3.1",
-    "react-native-deep-link": "^0.2.9"
+    "react-native-deep-link": "^0.2.9",
+    "react-redux": "^7.0.2",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",

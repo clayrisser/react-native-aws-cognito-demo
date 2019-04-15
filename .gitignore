@@ -76,3 +76,6 @@ dist/
 node_modules/
 aws-exports.js
 awsconfiguration.json
+
+yarn.lock
+package-lock.json
